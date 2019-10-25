@@ -2,15 +2,15 @@
 
 > A Vue.js project
 
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/login.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/index.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/details.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/devidePages.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/shop.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/command1.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/command2.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/command3.png)
-![Image text](https://https://github.com/378406712/user-System/blob/master/img/command4.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/login.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/index.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/details.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/devidePages.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/shop.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/command1.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/command2.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/command3.png)
+![Image text](https://github.com/378406712/user-System/blob/master/folderImg/command4.png)
 
 ##Build Setup
 
