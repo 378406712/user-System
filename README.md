@@ -2,7 +2,23 @@
 
 > A Vue.js project
 
-## Build Setup
+
+
+![login](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005829859.png)
+
+![index](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005905973.png)
+
+
+
+![detail](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005930899.png)
+
+![list](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005952387.png)
+
+![shop](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005972646.png)
+
+![commad/1](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005985499.png)![commad/2](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006000288.png)![commad/3](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006008748.png)![commad/4](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006064626.png)
+
+##Build Setup
 
 ``` bash
 # install dependencies
@@ -18,4 +34,34 @@ npm run build
 npm run build --report
 ```
 
+
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+1. vue配合vuex和本地存储可以减少HTTP请求，进行优化
+
+2. 本地储存：sessionStorage、localStorage和cookie之间的异同
+
+   共同点：都是保存在浏览器端，且同源的。
+
+   区别：cookie数据始终在同源的http请求中携带(即使不需要)，即cookie在浏览器和服务器间
+
+   ​			来回传递
+
+   ​			cookie数据不能超过4KB,同时因为每次http请求都会携带cookie，所以cookie只适合保存很小的数据，如短字符等
+
+   ​			而sessionStorage和localStorage虽然也有存储大小的限制，一般为5M
+
+   ​			数据有效期也不同，sessionStorage：仅在当前浏览器窗口关闭前有效，不能持久保存
+
+   ​			localStorage：始终有效，窗口或浏览器关闭也一直保存，因此用作持久数据；
+
+   ​			cookie只在设置的cookie过期时间之前一直有效，即使窗口或浏览器关闭
+
+3. 本地存储的方法
+
+   - setItem(key,val) 设置值
+   - getItem(key) 获取值
+   - key(index) 获取key
+   - removeItem（key）删除值
+   - clear() 清空所有储存
