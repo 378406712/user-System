@@ -16,7 +16,7 @@
 
 ![shop](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005972646.png)
 
-![commad/1](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005985499.png)![commad/2](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006000288.png)![commad/3](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006008748.png)![commad/4](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006064626.png)
+![commad/1](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572005985499.png)![commad/2](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006000288.png)![commad/3](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1572006008748.png)![commad/4](C:\Users\Administrator\Desktop\1572006064626.png)
 
 ##Build Setup
 
